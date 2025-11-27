@@ -2,7 +2,7 @@
 <h3 align="center">Business Systems Engineer</h3>
 
 <p align="center">
-  <img src="YOUR_PROFILE_PICTURE_LINK" alt="Nimra's Photo" width="150" style="border-radius: 50%;">
+  <img src="[YOUR_PROFILE_PICTURE_LINK](https://avatars.githubusercontent.com/u/246450336?s=400&u=f41c2fc2b4d75128a6a932455c7df367eb2b76a1&v=4)" alt="Nimra's Photo" width="150" style="border-radius: 50%;">
 </p>
 
 <p align="center">
