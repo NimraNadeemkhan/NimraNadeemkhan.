@@ -1,28 +1,30 @@
 <h1 align="center">Hi, I'm Nimra Nadeem 👋</h1>
-<h3 align="center">Business Systems Engineer | Smart Systems Development</h3>
+<h3 align="center">Business Systems Engineer</h3>
 
 <p align="center">
   <img src="YOUR_PROFILE_PICTURE_LINK" alt="Nimra's Photo" width="150" style="border-radius: 50%;">
 </p>
 
 <p align="center">
-  📍 United Arab Emirates | 🌐 Passionate About Smart City Technology & Modern Software Engineering  
+  🎓 London American City University | 📍 United Arab Emirates  
+  <br>
+  🌐 Passionate About Smart City Technology, Software Engineering & Business Solutions
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a **Software & Smart Systems Engineer** with a background in **Business Information Systems**, combining technical development skills with real-world problem-solving.  
+I am a **Business Systems Engineer** with a background in **Business Information Systems**, combining technical development skills with real-world problem-solving.  
 
 My work focuses on:
 - Smart city solutions  
 - API-integrated dashboards  
 - Software development  
 - Data-driven decision systems  
-- Modern full-stack applications  
+- Business & analytics projects  
 
-I love building technology that helps people, enhances safety, and connects physical systems with digital intelligence.
+I love building technology that helps people, enhances productivity, and connects business with digital intelligence.
 
 ---
 
@@ -40,12 +42,12 @@ I love building technology that helps people, enhances safety, and connects phys
 
 ### **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,sql,java,c,cpp,ts,r" />
 </p>
 
 ### **Frameworks & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,tailwind,git,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,tailwind,git,postman,docker,flutter" />
 </p>
 
 ### **Others**
