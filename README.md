@@ -97,8 +97,8 @@ This project monitors **heat risk in UAE**, predicts danger levels, and updates 
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/nimra-muhammad-05752128b/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:nadeemnimra752@gmail.com"><img src="https://img-shields.io/badge/Email-Contact-blue?logo=gmail&style=for-the-badge" /></a>
 </p>
 
 ---
