@@ -98,12 +98,11 @@ This project monitors **heat risk in UAE**, predicts danger levels, and updates 
 |----------|----------|
 | **🎥 Demo Video** | <a href="https://youtu.be/d0PUav8cRaM"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> |
 | **🔗 Code & Details** | <a href="https://github.com/NimraNadeemkhan/heat-safety-smart-system"><img src="https://img.shields.io/badge/View_GitHub_Code-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
-| **🌐 Live Demo** | **[Link will go here after deployment]** |
+| **🌐 Live Demo** | **<a href="https://safeguard-twin.onrender.com"><img src="https://img.shields.io/badge/View_Live_Demo-52A555?style=for-the-badge&logo=render&logoColor=white"/></a>** |
 
 </details>
 
 ---
-
 ## 📫 Contact Me
 
 <p align="left">
