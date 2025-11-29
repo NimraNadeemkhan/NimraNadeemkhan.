@@ -60,14 +60,15 @@ I love building technology that helps people, enhances productivity, and connect
 ## 🏆 Certifications
 
 <p align="left">
+  <a href="https://raw.githubusercontent.com/NimraNadeemkhan/NimraNadeemkhan/main/assets/certificates/microsoft.nimra.jpg"><img src="https://img.shields.io/badge/Microsoft-Certified-blue?logo=microsoft&style=for-the-badge" /></a>
+  <a href="https://raw.githubusercontent.com/NimraNadeemkhan/NimraNadeemkhan/main/assets/certificates/Certificate%20new.pdf"><img src="https://img.shields.io/badge/IBM-Certified-blue?logo=ibm&style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/Google-Certified-blue?logo=google&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Meta-Certified-blue?logo=meta&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cisco-Certified-blue?logo=cisco&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IBM-Certified-blue?logo=ibm&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microsoft-Certified-blue?logo=microsoft&style=for-the-badge" />
 </p>
 
 ---
+
 ## 📊 My GitHub Stats
 
 <p align="center">
