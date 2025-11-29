@@ -68,6 +68,14 @@ I love building technology that helps people, enhances productivity, and connect
 </p>
 
 ---
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NimraNadeemkhan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Nimra's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NimraNadeemkhan&theme=react-dark&hide_border=true" alt="Nimra's Contribution Graph" />
+</p>
+
+---
 
 ## 📂 Featured Project: Heat Safety Smart System (UAE)
 
