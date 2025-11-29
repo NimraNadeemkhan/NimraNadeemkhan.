@@ -63,9 +63,9 @@ This table highlights my verified professional certifications and exam results.
 
 | Provider | Certification / Course Name | Details / Score | Verification Link |
 | :--- | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=ibm&theme=dark" width="20px" alt="IBM Logo"/> **IBM** | AI Literacy | Credly Badge Issued | [🔗 View Credential](https://www.credly.com/badges/8e881893-4949-4975-a413-911c7fa0dc0d/linked_in?t=t5k9lx) |
-| <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="20px" alt="Microsoft Logo"/> **Microsoft** | Foundational C# Developer | **Exam Score: 96.3%** | [🔗 View Certificate](https://www.freecodecamp.org/certification/fcc-5eb3631b-4bc9-4e5d-bbd5-806aac3b65a3/foundational-c-sharp-with-microsoft) |
-| <img src="https://raw.githubusercontent.com/nimranadeemkhan/NimraNadeemkhan/main/assets/saylor-logo.png" onerror="this.onerror=null;this.src='https://placehold.co/20x20/007bff/white?text=SA'" width="20px" alt="Saylor Academy Logo"/> **Saylor Academy** | CS205: Building with AI | Certificate ID: `2998172838NN` | [🔗 View Certificate](https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1756896108/2998172838NN.pdf) |
+| 💻 **IBM** | AI Literacy | Credly Badge Issued | [🔗 View Credential](https://www.credly.com/badges/8e881893-4949-4975-a413-911c7fa0dc0d/linked_in?t=t5k9lx) |
+| 🟢 **Microsoft** | Foundational C# Developer | **Exam Score: 96.3%** | [🔗 View Certificate](https://www.freecodecamp.org/certification/fcc-5eb3631b-4bc9-4e5d-bbd5-806aac3b65a3/foundational-c-sharp-with-microsoft) |
+| 📚 **Saylor Academy** | CS205: Building with AI | Certificate ID: `2998172838NN` | [🔗 View Certificate](https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1756896108/2998172838NN.pdf) |
 
 ---
 
@@ -98,6 +98,7 @@ This project monitors **heat risk in UAE**, predicts danger levels, and updates 
 |----------|----------|
 | **🎥 Demo Video** | <a href="https://youtu.be/d0PUav8cRaM"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> |
 | **🔗 Code & Details** | <a href="https://github.com/NimraNadeemkhan/heat-safety-smart-system"><img src="https://img.shields.io/badge/View_GitHub_Code-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| **🌐 Live Demo** | **[Link will go here after deployment]** |
 
 </details>
 
