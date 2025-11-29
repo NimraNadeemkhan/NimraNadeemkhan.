@@ -85,11 +85,17 @@ This table highlights my verified professional certifications and exam results.
 
 <br>
 A full smart-city inspired system built with:
+
 ✅ Node.js • Express • MongoDB
+
 ✅ OpenWeather API
+
 ✅ 3D Visualization (Three.js)
+
 ✅ Realtime Risk Detection
+
 ✅ Dashboard UI with Tailwind
+
 ✅ Automatic Logging System
 
 This project monitors **heat risk in UAE**, predicts danger levels, and updates data in real time using a clean, modern dashboard.
