@@ -30,23 +30,29 @@ I love building technology that helps people, enhances productivity, and connect
 
 ## 🤖 Featured Project: DispatchLab
 
-A warehouse robot fleet simulator in Python that tests one question: **does a dispatcher that considers distance and battery beat first-come, first-served dispatch, and when?**
+A warehouse robot fleet simulator in Python that tests one question: **Does a smarter dispatcher beat first-come, first-served dispatch, and which part of it actually matters?**
 
 Four robots take orders from a queue, route around a wall with BFS pathfinding, drain battery, and recharge at a dock. I ran both dispatchers on the same seeded orders, 30 seeds per scenario, including an order surge where half the orders arrive at once.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NimraNadeemkhan/dispatchlab/main/results/comparison.png" alt="Naive vs smart dispatch comparison" width="520">
+  <img src="https://raw.githubusercontent.com/NimraNadeemkhan/Dispatchlab/main/docs/demo.gif" alt="Naive vs smart dispatch, side by side" width="700">
+</p>
+
+<p align="center">
+  <em>One example run (seed 1, order surge). The results below come from 30 seeds, not this single run.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NimraNadeemkhan/Dispatchlab/main/results/comparison.png" alt="Naive vs smart dispatch comparison" width="520">
 </p>
 
 - The smart dispatcher had the lower average delivery time in **27 of 30** normal seeds and **28 of 30** surge seeds.
 - On average it cut delivery time by about **18%** (normal) and **16%** (surge), measured in simulation steps.
-- It did not win every seed, and the weights in its score are my assumptions, not tuned values.
+- It did not win every seed. A follow-up test showed most of the gain comes from choosing the nearest robot, and the battery penalty added almost nothing.
 
 **Built with:** Python, BFS pathfinding, matplotlib, CSV data
 
 <a href="https://github.com/NimraNadeemkhan/dispatchlab"><img src="https://img.shields.io/badge/View_Code_&_Results-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-
----
 
 ## 📂 Featured Project: Heat Safety Smart System (UAE)
 
